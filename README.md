@@ -1,4 +1,6 @@
 # ioT-Farm : A Efficient and Smart Farming
+![iot farm by techeonics](https://github.com/gauravk5/ioT-Farm/assets/62889542/99188f88-fbd5-441a-95ce-e3ad9757b6e9)
+
 ioTFarm : Smart IoT Solution for Gardening and Agriculture
 ioTFarm is an innovative IoT device designed to revolutionize gardening and agriculture. This smart device integrates various sensors and actuators to monitor and automate the watering process, ensuring optimal conditions for plant growth.
 
